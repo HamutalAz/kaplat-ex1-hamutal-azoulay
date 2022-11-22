@@ -1,1 +1,3 @@
 firxt line in a.txt
+another line in a.txt
+another line in a.txt
